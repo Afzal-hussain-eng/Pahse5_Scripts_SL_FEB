@@ -31,7 +31,7 @@ public static void gridDemo() throws MalformedURLException, InterruptedException
 	
 	// RemoteWebDriver()
 	
-	driver = new RemoteWebDriver(new URL(hubURL),options);
+	driver = new RemoteWebDriver(new URL("http://192.168.43.118:4545/wd/hub"),options);
 }
 	
 	@Test
