@@ -74,7 +74,7 @@
 <configuration>
     <suiteXmlFiles>
         <suiteXmlFile>src/main/resources/GroupsDemo.xml</suiteXmlFile>
-        <suiteXmlFile>src/main/resources/CrossBrowserTest.xml</suiteXmlFile>
+       <!-- <suiteXmlFile>src/main/resources/CrossBrowserTest.xml</suiteXmlFile>-->
        
           </suiteXmlFiles>
 </configuration>
